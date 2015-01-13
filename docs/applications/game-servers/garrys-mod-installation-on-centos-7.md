@@ -64,8 +64,8 @@ Installation
 	./gmodserver install
 	```
 
-4.  Press `y` when it asks about the server directory.
-5.  Ensure that the install is successful and press `y` when it asks you:
+4.  Press `Y` when it asks about the server directory.
+5.  Ensure that the install was successful and press `Y` when it asks you:
 
 	```
 	 Update state (0x61) downloading, progress: 97.37 (3695044726 / 3795030198)
